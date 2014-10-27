@@ -3,3 +3,7 @@ body p {
 	text-align: center;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 }
+a {
+	color: #000000;
+	text-decoration: underline;
+}
